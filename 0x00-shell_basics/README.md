@@ -7,4 +7,6 @@ ls > Display the contents list of current directory.
 Task 2:
 cd > Changes the working directory to home directory.
 
+Task 3:
+ls -l > Display current directory contents in a long format
 
