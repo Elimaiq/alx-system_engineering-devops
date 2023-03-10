@@ -10,3 +10,7 @@ cd > Changes the working directory to home directory.
 Task 3:
 ls -l > Display current directory contents in a long format
 
+Task 4:
+ls -a > Display current directory contents, including hidden files
+
+
